@@ -8,6 +8,12 @@ public class Sample201 {
 		System.out.println (5 + 2);
 		System.out.print(5 + " - " + 2 + " = ");
 		System.out.println(5 - 2);
+		System.out.print(5 + " * " + 2 + " = ");
+		System.out.println(5 * 2);
+		System.out.print(5 + " / " + 2 + " = ");
+		System.out.print(5 / 2);
+		System.out.print("余り");
+		System.out.println(5 % 2);
 	}
 
 }
