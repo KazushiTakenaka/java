@@ -6,7 +6,8 @@ public class Sample201 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.print(5 + " + " + 2 + " = ");
 		System.out.println (5 + 2);
-		
+		System.out.print(5 + " - " + 2 + " = ");
+		System.out.println(5 - 2);
 	}
 
 }
