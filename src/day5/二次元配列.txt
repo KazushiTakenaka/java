@@ -1,0 +1,9 @@
+二次元配列
+
+
+int a [][] = new int[20][50];
+int m,n;
+//  二次元配列に値を代入
+for(m = 0; m < a.length; m++){
+    for(n = 0; n < a[m].length; n++){
+        a[m][n] = m+n;
